@@ -10,6 +10,7 @@ namespace FileOperations
     {
         static void Main(string[] args)
         {
+            System.IO.File.Delete("");
             Console.WriteLine("This is my first repository");
         }
     }
