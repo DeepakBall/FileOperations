@@ -10,7 +10,7 @@ namespace FileOperations
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("THis is my first repository");
+            Console.WriteLine("This is my first repository");
         }
     }
 }
